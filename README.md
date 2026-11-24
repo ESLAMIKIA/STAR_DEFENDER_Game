@@ -40,7 +40,7 @@ One mission. Endless enemies. How long can you survive?
 - 🔄 **Restart System** — Jump straight back into the action after defeat.
 
 ---
-##Screen Shots
+## Screen Shots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f07027d7-a6d5-4b19-9d9b-66b5cc9d6795" width="49%" alt="STAR DEFENDER Gameplay" />
   <img src="https://github.com/user-attachments/assets/7cf89066-bfa5-47d7-b162-ead9603e69f0" width="49%" alt="STAR DEFENDER Game Over" />
